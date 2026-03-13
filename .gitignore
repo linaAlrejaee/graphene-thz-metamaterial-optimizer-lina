@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.mph
+*.mhtml
+.qodo/
+CLAUDE.md
+output/
